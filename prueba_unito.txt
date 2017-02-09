@@ -1,3 +1,4 @@
 Esto es una prueba de sincronización
 Terminamos la prueba
 De nuevo, volvemos a cerrar tarea 2
+Prueba de cambio de código
